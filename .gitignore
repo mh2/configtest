@@ -1,0 +1,30 @@
+## https://gist.github.com/klaeufer/1705986 ##
+
+# General
+*~
+*.log
+tmp
+dump
+ 
+# Eclipse
+.settings
+.cache
+.project
+.classpath
+.scala_dependencies
+bin
+ 
+# SBT
+dist
+project/boot
+project/target
+project/plugins/target
+target
+.target
+
+lib_managed/
+ 
+# Play
+logs
+RUNNING_PID
+
